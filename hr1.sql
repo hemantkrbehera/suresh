@@ -1,1 +1,1 @@
-select * from employees employee_id<120;
+select * from employees where employee_id<150;
